@@ -1,3 +1,5 @@
+# No subir archivo con variables de entorno (para eso se sube un template)
+.env
 # Logs
 logs
 *.log
